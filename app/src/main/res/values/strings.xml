@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ערוץ השידור שלי</string>
+    <string name="channel_subtitle">ערוץ עדכונים רשמי (קריאה בלבד לעוקבים)</string>
+    <string name="admin_badge">מנהל הערוץ</string>
+    <string name="guest_user">משתמש אורח</string>
+    <string name="sign_in_google">התחבר עם Google</string>
+    <string name="signed_in_as">מחובר כ-</string>
+    <string name="logout">התנתק</string>
+    <string name="admin_login">כניסת מנהל</string>
+    <string name="new_broadcast">פרסום הודעה חדשה</string>
+    <string name="empty_feed_title">אין עדיין הודעות בערוץ</string>
+    <string name="empty_feed_subtitle">רק מנהל הערוץ יכול לפרסם כאן תוכן. כשההודעה הראשונה תפורסם היא תופיע כאן מיידית.</string>
+    <string name="admin_code_hint">הזן קוד מנהל סודי (ברירת מחדל: 1234)</string>
+    <string name="publish_button">פרסם בערוץ</string>
+    <string name="cancel_button">ביטול</string>
+    <string name="msg_title_hint">כותרת ההודעה (אופציונלי)</string>
+    <string name="msg_content_hint">כתוב כאן את הודעת השידור לעוקבים...</string>
+    <string name="filter_all">הכל</string>
+    <string name="filter_updates">עדכונים</string>
+    <string name="filter_announcements">הודעות</string>
+    <string name="filter_important">חשוב ⚡</string>
+    <string name="sign_in_prompt">התחברו עם חשבון Google כדי לשמור הודעות ולהגיב בלייקים</string>
+</resources>

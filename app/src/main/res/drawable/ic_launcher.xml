@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Background rounded squircle -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M16,0 L80,0 A16,16 0 0,1 96,16 L96,80 A16,16 0 0,1 80,96 L16,96 A16,16 0 0,1 0,80 L0,16 A16,16 0 0,1 16,0 Z" />
+    <!-- Megaphone / Broadcast Horn body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,36 L44,36 L64,22 L64,74 L44,60 L30,60 Z" />
+    <!-- Speaker handle -->
+    <path
+        android:fillColor="#BBDEFB"
+        android:pathData="M34,60 L34,76 A4,4 0 0,0 42,76 L42,60 Z" />
+    <!-- Broadcast sound waves -->
+    <path
+        android:fillColor="#90CAF9"
+        android:pathData="M70,38 C74,44 74,52 70,58 L74,62 C80,54 80,42 74,34 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M78,30 C86,41 86,55 78,66 L82,70 C92,57 92,39 82,26 Z" />
+</vector>
